@@ -17,4 +17,5 @@ An Hololens App for Moving, Scaling and Rotating a liver model
 
 ## Debug：
 1. 模型的每一部分都要在CAD文件里设置轴居中到对象然后导出fbx文件；
-2. *.dll文件缺失，将project.lock.json中的10.0.*为10.0，参考下文：https://forums.hololens.com/discussion/8382/hololens-universal10-build-json-dll-error-solve#latest
+2. *.dll文件缺失，将project.lock.json中的10.0.*为10.0，参考下文：https://forums.hololens.com/discussion/8382/hololens-universal10-build-json-dll-error-solve#latest;
+3. 在Emulator中无法操作模型，可能的原因是距离模型太远，尝试移动靠近模型进行操作；
