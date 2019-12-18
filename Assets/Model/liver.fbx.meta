@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 991b88f1e4a948a4caa7fbeb4a00ff5a
+timeCreated: 1576050753
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "Cinema_4D_\u7F16\u8F91\u5668"
+    100002: hepatic
+    100004: hepatic_MeshPart0
+    100006: hepatic_MeshPart1
+    100008: liver
+    100010: //RootNode
+    100012: liver_smoothed
+    100014: liver_smoothed_1
+    100016: liver_smoothed_1_MeshPart0
+    100018: liver_smoothed_1_MeshPart1
+    100020: liver_smoothed_1_MeshPart2
+    100022: liver_smoothed_1_MeshPart3
+    100024: liver_smoothed_1_MeshPart4
+    100026: liver_smoothed_MeshPart0
+    100028: liver_smoothed_MeshPart1
+    100030: liver_smoothed_MeshPart2
+    100032: liver_smoothed_MeshPart3
+    100034: liver_smoothed_MeshPart4
+    100036: portal_1
+    100038: portal_2
+    400000: "Cinema_4D_\u7F16\u8F91\u5668"
+    400002: hepatic
+    400004: hepatic_MeshPart0
+    400006: hepatic_MeshPart1
+    400008: liver
+    400010: //RootNode
+    400012: liver_smoothed
+    400014: liver_smoothed_1
+    400016: liver_smoothed_1_MeshPart0
+    400018: liver_smoothed_1_MeshPart1
+    400020: liver_smoothed_1_MeshPart2
+    400022: liver_smoothed_1_MeshPart3
+    400024: liver_smoothed_1_MeshPart4
+    400026: liver_smoothed_MeshPart0
+    400028: liver_smoothed_MeshPart1
+    400030: liver_smoothed_MeshPart2
+    400032: liver_smoothed_MeshPart3
+    400034: liver_smoothed_MeshPart4
+    400036: portal_1
+    400038: portal_2
+    2300000: hepatic_MeshPart0
+    2300002: hepatic_MeshPart1
+    2300004: liver_smoothed_1_MeshPart0
+    2300006: liver_smoothed_1_MeshPart1
+    2300008: liver_smoothed_1_MeshPart2
+    2300010: liver_smoothed_1_MeshPart3
+    2300012: liver_smoothed_1_MeshPart4
+    2300014: liver_smoothed_MeshPart0
+    2300016: liver_smoothed_MeshPart1
+    2300018: liver_smoothed_MeshPart2
+    2300020: liver_smoothed_MeshPart3
+    2300022: liver_smoothed_MeshPart4
+    2300024: portal_1
+    2300026: portal_2
+    3300000: hepatic_MeshPart0
+    3300002: hepatic_MeshPart1
+    3300004: liver_smoothed_1_MeshPart0
+    3300006: liver_smoothed_1_MeshPart1
+    3300008: liver_smoothed_1_MeshPart2
+    3300010: liver_smoothed_1_MeshPart3
+    3300012: liver_smoothed_1_MeshPart4
+    3300014: liver_smoothed_MeshPart0
+    3300016: liver_smoothed_MeshPart1
+    3300018: liver_smoothed_MeshPart2
+    3300020: liver_smoothed_MeshPart3
+    3300022: liver_smoothed_MeshPart4
+    3300024: portal_1
+    3300026: portal_2
+    4300000: portal_2
+    4300002: portal_1
+    4300004: hepatic_MeshPart0
+    4300006: hepatic_MeshPart1
+    4300008: liver_smoothed_MeshPart0
+    4300010: liver_smoothed_MeshPart1
+    4300012: liver_smoothed_MeshPart2
+    4300014: liver_smoothed_MeshPart3
+    4300016: liver_smoothed_MeshPart4
+    4300018: liver_smoothed_1_MeshPart0
+    4300020: liver_smoothed_1_MeshPart1
+    4300022: liver_smoothed_1_MeshPart2
+    4300024: liver_smoothed_1_MeshPart3
+    4300026: liver_smoothed_1_MeshPart4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
